@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date_of_birth: 2020-12-10
+  height: 1.5
+  weight: 1.5
+  health_goals: MyText
+  health_condidtions: MyText
+  current_medications: MyText
+  lifestyle_and_stressors: MyText
+  notes: MyText
+  dosage_recommendation: MyText
+
+two:
+  name: MyString
+  date_of_birth: 2020-12-10
+  height: 1.5
+  weight: 1.5
+  health_goals: MyText
+  health_condidtions: MyText
+  current_medications: MyText
+  lifestyle_and_stressors: MyText
+  notes: MyText
+  dosage_recommendation: MyText
